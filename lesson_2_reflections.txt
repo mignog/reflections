@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+é criada a pasta .git, só visível com ls -a ou hidden files visible. é necessário para fazer track às versões
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+é uma área intermédia, buffer, onde se colocam os ficheiros a adicionar a um commit. Permite alterar o commit se se entender que entretanto não é necessário fazer um commit do ficheiro e fazer commits de vários ficheiros
