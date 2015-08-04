@@ -18,3 +18,8 @@ a partir do id dos commits, posso comparar duas submiss\oes com git dif. é nece
 How might using version control make you more confident to make changes that could break something?
 
 Muito mais dado que é possível facilmente identificar as versões que têm os problemas e reverter para elas
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Design applications and websites
+
