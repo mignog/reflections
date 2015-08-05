@@ -5,3 +5,13 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 é uma área intermédia, buffer, onde se colocam os ficheiros a adicionar a um commit. Permite alterar o commit se se entender que entretanto não é necessário fazer um commit do ficheiro e fazer commits de vários ficheiros
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+não sei
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Testar novas features, ter novas versões do produto etc
+
+
