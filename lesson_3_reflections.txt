@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+Se estiver a trabalhar a partir de vários pcs, se várias pessoas estiverem a contribuir para o código, por segurança
