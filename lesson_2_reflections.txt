@@ -22,5 +22,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 os commits dos dois branchs ficam na mesma "linha"; é possível aceder a todos os commits mesmo aqueles que estavam no branch entretanto apagado
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging poupa o trabalho de procurar e identifcar as diferneças no codigo; manual garante que o merge é o correto e evita erros potenciais da máquina
+
 
 
