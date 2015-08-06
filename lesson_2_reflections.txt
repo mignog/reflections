@@ -16,6 +16,11 @@ Testar novas features, ter novas versões do produto etc
 
 How do the diagrams help you visualize the branch structure?
 
-Perceber qual é o parent do commit atual e perceber se ao retirar commits anteriores
+Perceber qual é o parent do commit atual e perceber se ao retirar commits anteriores eles ficam orfãos
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+os commits dos dois branchs ficam na mesma "linha"; é possível aceder a todos os commits mesmo aqueles que estavam no branch entretanto apagado
+
 
 
